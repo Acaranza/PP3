@@ -1,12 +1,12 @@
-# foobarbaz
+# acaranza PP3
 
 La app de PP3 del IFTS18
 
 # Anteproyecto
 
-El anteproyecto está definido en este [documento](https://docs.google.com/document/d/1eUmlLWUgun6_ThzPsxKLCKkPG-ogLsRQY9NJ-udAwgk/edit#heading=h.uiugfdjxhb7t)[1]
+El anteproyecto está definido en este [documento](https://docs.google.com/document/d/1S3DGBCOWCxnysYl58zRI5p3nQugF-5Av/edit#heading=h.gjdgxs)[1]
 
-[1] Si no estás cursando la materia no vas a tener acceso a este documento.
+
 
 # Mockups
 
