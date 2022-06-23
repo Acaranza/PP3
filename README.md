@@ -1,4 +1,4 @@
-# acaranza PP3
+# acaranza Práctica Profesional 3 - Not Tabú
 
 La app de PP3 del IFTS18
 
